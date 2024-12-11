@@ -1,9 +1,10 @@
  
 *.js linguist-detectable=true
+ 
 *.json linguist-language=JavaScript
 
- 
 *.html linguist-detectable=true
+
 *.css linguist-detectable=true
 
 node_modules/* linguist-vendored
